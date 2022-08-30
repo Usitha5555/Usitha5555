@@ -9,9 +9,9 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usitha5555&label=Profile%20views&color=0e75b6&style=flat" alt="usitha5555" /> </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usitha5555&label=Profile%20views&color=0e75b6&style=flat" alt="usitha5555" /> </p>
+
 
 
 
