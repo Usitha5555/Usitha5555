@@ -22,7 +22,7 @@
 - 📫 How to reach me **usithaarachchi@gmail.com**
 
 
-<p><img align="centre" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
