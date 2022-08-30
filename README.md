@@ -1,6 +1,6 @@
-# USITHA-KODITHUWAKKU-ARACHCHI
 
-<h1 align="center">Hi 👋, I'm Usitha</h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Usitha;Machine+Learning+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Machine learning developer from Sri Lanka</h3>
 
